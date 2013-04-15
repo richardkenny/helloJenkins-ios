@@ -12,7 +12,7 @@
 export DEVELOPER_DIR=/Applications/${XcodeAppName}.app/Contents/Developer
 
 # move into source directory
-#cd "Hello Jenkins"
+cd "Hello Jenkins"
 
 # Clean the project
 xcodebuild clean
