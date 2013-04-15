@@ -6,7 +6,7 @@
 #WORKSPACE=/Users/amirxk0/.jenkins/jobs/jenkinstest-ios
 #Config=AutobuildRelease
 #Target=helloJenkins-ios
-Scheme="Hello Jenkins"
+#Scheme="Hello Jenkins"
 
 # Set the DEVELOPER_DIR for xcode for project
 export DEVELOPER_DIR=/Applications/${XcodeAppName}.app/Contents/Developer
